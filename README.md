@@ -1,6 +1,6 @@
 # 🎵 SoundSnippets API
 
-A simple Java + Spring Boot CRUD API for managing user-submitted sound snippet metadata — designed to demonstrate backend development skills with RESTful services, JPA, and PostgreSQL.
+A simple Java + Spring Boot CRUD API for managing user-submitted sound snippet metadata, designed to demonstrate backend development skills with RESTful services, JPA, and PostgreSQL.
 
 ##  Features
 
